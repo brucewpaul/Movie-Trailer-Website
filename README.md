@@ -9,7 +9,7 @@ Installation
 =============
 
 * Clone Repo
-
+* Start Script:
 ```
 $ python entertainment_center.py
 ```

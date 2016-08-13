@@ -1,20 +1,13 @@
-Project Title:
-
-This is a short blurb about the project's scope
-
-Installation/ Quickstart:
-
-****************************************
+=====================
 Movie Trailer Website
-****************************************
+=====================
 
+This is a basic python based website that renders a website of some movies.
 
-=============
+============
 Installation
-=============
+============
 
 * Clone Repo
-
-.. code-block:: bash
 
     $ python entertainment_center.py
